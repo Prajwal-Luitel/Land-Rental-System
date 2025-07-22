@@ -1,0 +1,10 @@
+101,Kathmandu,North,4,50000,Available,duration,UniqueId
+102,Lalitpur,East,5,60000,Available,duration,UniqueId
+103,Kathmandu,South,10,200000,Available,duration,UniqueId
+104,Biratnagar,North,15,60000,Available,duration,UniqueId
+105,Butwal,East,30,50000,Available,duration,UniqueId
+106,Lalitpur,East,7,150000,Not Available,12,UniqueId12
+108,Pokhara,South,6,100000,Available,duration,UniqueId
+109,Nawalparshi,East,20,70000,Available,duration,UniqueId
+110,Bhairawa,South,10,100000,Available,duration,UniqueId
+112,Janakpur,North,8,80000,Available,duration,UniqueId
